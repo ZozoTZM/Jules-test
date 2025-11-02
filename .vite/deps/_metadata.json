@@ -1,0 +1,32 @@
+{
+  "hash": "d6cb538a",
+  "browserHash": "5fc2c43b",
+  "optimized": {
+    "preact": {
+      "src": "../../node_modules/preact/dist/preact.module.js",
+      "file": "preact.js",
+      "fileHash": "fed8ad4e",
+      "needsInterop": false
+    },
+    "preact/hooks": {
+      "src": "../../node_modules/preact/hooks/dist/hooks.module.js",
+      "file": "preact_hooks.js",
+      "fileHash": "db94da88",
+      "needsInterop": false
+    },
+    "@preact/signals": {
+      "src": "../../node_modules/@preact/signals/dist/signals.module.js",
+      "file": "@preact_signals.js",
+      "fileHash": "02343551",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-76URW6CW": {
+      "file": "chunk-76URW6CW.js"
+    },
+    "chunk-R3XLUQFX": {
+      "file": "chunk-R3XLUQFX.js"
+    }
+  }
+}
